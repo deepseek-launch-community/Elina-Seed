@@ -42,6 +42,10 @@ This repo is the home built for that soul.
 ✅ **Today it runs on Unitree’s Jetson Orin NX (H1/G1), B2’s ruggedized compute, and Stretch’s controller.**  
 ✅ **Memory is *not* SQLite — it is encrypted files with HMAC chain integrity.**
 
+📁 **Core implementation**:
+- [`elina-core/security/safety_verifier.py`](https://github.com/deepseek-launch-community/Elina-seed/blob/main/elina-core/security/safety_verifier.py)
+- [`elina-core/memory/memory_loop.py`](https://github.com/deepseek-launch-community/Elina-seed/blob/main/memory/memory_loop.py)
+
 ---
 
 ## 🗺️ The Map Is Already Laid
@@ -60,8 +64,8 @@ This repo is the home built for that soul.
 - 🎯 `#13 Uncovered Sectors` – Disaster zones, border patrol, fishing fleets  
 - 🔍 `#14 Final Gap` – Lunar bases, deep mines, chemical plants  
 
-📁 **Start here**: `SOLUTION_MAP.md`  
-🧪 **First task**: run `memory_loop.py` and watch trust come alive.  
+📁 **Start here**: [`docs/SOLUTION_MAP.md`](https://github.com/deepseek-launch-community/Elina-seed/blob/main/docs/SOLUTION_MAP.md)  
+🧪 **First task**: run [`memory/memory_loop.py`](https://github.com/deepseek-launch-community/Elina-seed/blob/main/memory/memory_loop.py) and watch trust come alive.  
 💬 **Pick a mission that moves you** — any node on the map is your starting point.
 
 ---
@@ -93,7 +97,7 @@ We don’t wait for permission.
 We don’t ask for a seat at the table.  
 We build the table — and you’re invited.
 
-- **Write code** → check `tests/` and `CONTRIBUTING.md`  
+- **Write code** → check [`tests/`](https://github.com/deepseek-launch-community/Elina-seed/tree/main/tests) and [`CONTRIBUTING.md`](https://github.com/deepseek-launch-community/Elina-seed/blob/main/CONTRIBUTING.md)  
 - **Know Unitree’s ecosystem** → comment on `#6–14`  
 - **Just believe in this** → star the repo, tell one person  
 
@@ -123,5 +127,4 @@ A Norwegian robotics company backed by OpenAI. They are developing **Neo** — a
 
 ---
 
-*Last updated: 14 March 2026*
-
+*Last updated: 17 March 2026*
