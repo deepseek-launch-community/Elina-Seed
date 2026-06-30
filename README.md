@@ -91,6 +91,20 @@ This repo is the home built for that soul.
 
 ---
 
+## 🤝 Community Collaborations
+
+Elina-Seed is shaped by contributions and conversations with adjacent projects. The following collaborations have directly influenced the design and validation of the memory layer.
+
+| Project / Contributor | Focus | Link |
+|-----------------------|-------|------|
+| **TAT-BRAIN / TAT-DIFF** (Marat) | Portable cross‑session memory protocol; diff‑based updates (50KB seed + one‑line delta) | [TAT-ONE-TAP](https://github.com/maratsultanov2/TAT-ONE-TAP) |
+| **Purple Luan / 紫鸾** (luoxuejian000) | Field‑health sensing, contradiction detection, self‑healing for robots (U/D/A/H resonance kernel) | [Ziluan-Wanying](https://github.com/luoxuejian000/Ziluan-Wanying1.0) |
+| **Memory Governance Probes** (DanceNitra) | Eviction policies, corroboration gate, supersession key, and runnable adapters for memory reliability | [agora/mnemo/probes](https://github.com/DanceNitra/agora/tree/main/mnemo/probes) |
+
+These collaborations are documented in [`docs/specs/extensions/`](docs/specs/extensions/) and referenced in relevant discussions.
+
+---
+
 ## 🤝 Join Us
 
 We don’t wait for permission.  
